@@ -25,9 +25,9 @@
 
 						<li class="<?php echo ($page =="memory" ? "active" : "")?>"><a href="memory-support.php">Memory Support</a></li>
 
-						<li class="<?php echo ($page =="hopsice" ? "active" : "")?>"><a href="hospice.php">Hospice</a></li>
+						<li class="<?php echo ($page =="hospice" ? "active" : "")?>"><a href="hospice.php">Hospice</a></li>
 
-						<li class="<?php echo ($page =="nursing" ? "dialysis" : "")?>"><a href="dialysis.php">Dialysis</a></li>
+						<li class="<?php echo ($page =="dialysis" ? "active" : "")?>"><a href="dialysis.php">Dialysis</a></li>
 					</ul>
 
 				</li>
