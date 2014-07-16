@@ -43,13 +43,13 @@
 <?php include 'inc/nav.php'; ?>
 
 	<!-- Header -->
-	<header id="head">
+	<header id="head" class="blog">
 		<div class="container">
 			<div class="row">
 				<div class="titles">
 					<h1 class="lead">Blog & Events</h1>
 					
-					<p><a href="contact.php" class="btn btn-default btn-lg" role="button">Schedule a Tour</a> <a class="btn btn-action btn-lg fancybox-media" role="button" href="https://www.youtube.com/watch?v=vmFqp1uatmo" >Video Guide</a></p>
+					
 				</div>
 				
 			</div>

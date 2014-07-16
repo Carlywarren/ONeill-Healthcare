@@ -252,6 +252,19 @@ img[src*="gstatic.com/"], img[src*="googleapis.com/"] {
 	background-position: center;
 }
 
+#head.blog {
+	background: #181015 url(../images/bg_header_blog.jpg) no-repeat;
+	background-size: cover;
+	min-height: 520px;
+	text-align: center;
+	padding-top: 240px;
+	color: white;
+	font-family: "Open sans", Helvetica, Arial;
+	height: 600px;
+	margin-top: 100px;
+	background-position: center;
+}
+
 #head.bradleybay {
 	height: 100px;
 	min-height: 400px;
