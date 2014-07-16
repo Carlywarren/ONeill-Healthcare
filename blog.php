@@ -47,8 +47,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="titles">
-					<h1 class="lead">Blog</h1>
-					<p class="tagline">Celebrating 50 years of providing quality care</p>
+					<h1 class="lead">Blog & Events</h1>
+					
 					<p><a href="contact.php" class="btn btn-default btn-lg" role="button">Schedule a Tour</a> <a class="btn btn-action btn-lg fancybox-media" role="button" href="https://www.youtube.com/watch?v=vmFqp1uatmo" >Video Guide</a></p>
 				</div>
 				
@@ -59,33 +59,16 @@
 	</header>
 	<!-- /Header -->
 
-	<!-- Intro -->
-	<div class="container text-center">
-		<br> <br>
-		<h2 class="thin">The Future of Healthcare.</h2>
-		<p class="text-muted">
-			Close to Home. Close to Your Heart. 
-		</p>
-	</div>
-	<!-- /Intro-->
-
-	<!-- Highlights - jumbotron -->
-	<div class="jumbotron top-space">
-		<div class="container">
-			
-			<h3 class="text-center thin">Reasons to choose us</h3>
-			
-			<div class="row">
-				
-			</div> <!-- /row  -->
-		
-		</div>
-	</div>
-	<!-- /Highlights -->
 
 	<!-- container -->
 	<div class="container">
 
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		
 	</div>	<!-- /container -->
 
