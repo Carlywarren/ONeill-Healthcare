@@ -76,7 +76,38 @@
 			<h3 class="text-center thin">Reasons to choose us</h3>
 			
 			<div class="row">
-				
+				<div class="col-md-3 col-sm-6 highlight">
+					<div class="h-caption">
+						<h4 class="stars">
+							<i class="fa fa-star fa-1g"></i>
+							<i class="fa fa-star fa-2x"></i>
+							<i class="fa fa-star fa-3x"></i>
+							<i class="fa fa-star fa-2x"></i>
+							<i class="fa fa-star fa-1g"></i>
+						</h4> 
+						<h4>Quality </h4></div>
+					<div class="h-body text-center">
+						<p>Quality means doing it right when no one is looking.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 highlight">
+					<div class="h-caption"><h4><i class="fa fa-users fa-3x"></i>Support</h4></div>
+					<div class="h-body text-center">
+						<p>The greatest joys in life are found not only in what we do and feel, but also in our quiet hopes and labors for others. </p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 highlight">
+					<div class="h-caption"><h4><i class="fa fa-heart fa-3x"></i>Care</h4></div>
+					<div class="h-body text-center">
+						<p>If everyone is moving forward together, then success takes care of itself.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 highlight">
+					<div class="h-caption"><h4><i class="fa fa-smile-o fa-3x"></i>Happiness</h4></div>
+					<div class="h-body text-center">
+						<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
+					</div>
+				</div>
 			</div> <!-- /row  -->
 		
 		</div>
@@ -86,7 +117,42 @@
 	<!-- container -->
 	<div class="container">
 
-		
+		<h2 class="text-center top-space">Frequently Asked Questions</h2>
+		<br>
+
+		<div class="row">
+			<div class="col-sm-6">
+				<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit?</h3>
+				<p>Integer elementum mattis faucibus. Aliquam at laoreet nisl. Aliquam eleifend nunc dolor, in ullamcorper urna gravida eu.</p>
+			</div>
+			<div class="col-sm-6">
+				<h3> Aenean eu ligula in diam facilisis adipiscing sed quis purus?</h3>
+				<p>
+					Donec ultrices consectetur elit, ut dapibus tortor. Praesent rutrum, neque in convallis mollis, tortor urna hendrerit massa, in semper justo dolor a nibh.</p>
+			</div>
+		</div> <!-- /row -->
+
+		<div class="row">
+			<div class="col-sm-6">
+				<h3>Vestibulum mattis tempor mi eu volutpat. Quisque hendrerit eleifend rhoncus?</h3>
+				<p>
+					Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
+
+			</div>
+			<div class="col-sm-6">
+				<h3>Quisque commodo tellus id varius varius?</h3>
+				<p>Fusce eget luctus mauris. Duis eu venenatis tortor. Maecenas ac scelerisque ligula. Pellentesque dapibus est nec elit egestas faucibus nec sed urna.</p>
+			</div>
+		</div> <!-- /row -->
+
+		<div class="jumbotron top-space">
+			<h3>We invite you to visit us, talk things over, and decide for yourself.</h3>
+			<h4>Learn more about all of our services.</h4>
+     		<p class="text-right"><a href="services.php" class="btn btn-success btn-large">Learn more »</a></p>
+  		</div>
 
 	</div>	<!-- /container -->
 
