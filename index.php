@@ -114,6 +114,45 @@
 	</div>
 	<!-- /Highlights -->
 
+
+		<div id="blog">
+			<div class="container">
+				<h2 class="text-center top-space">What have we been up to?</h2>
+				<div class="blog-space col-md-4">
+				
+					<a href="#"><h4>Zoo Trip >></h4></a>
+					<p class="right">7/15/2014</p>
+					
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					</p>
+					<img src="assets/images/blog/zoo.jpg" />
+				</div>
+					
+				<div class="blog-space col-md-4">
+				
+					<a href="#"><h4>Arts and Crafts >></h4></a>
+					<p class="right">6/15/2014</p>
+
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					</p>
+					<img src="assets/images/blog/arts.jpg" />
+				</div>	
+					
+				<div class="blog-space col-md-4">
+									
+					<a href="#"><h4>Gardening >></h4></a>
+					<p class="right">5/15/2014</p>
+					
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					</p>
+					<img src="assets/images/blog/garden.jpg" />
+				</div>	
+				
+			</div> 
+		</div><!-- /blog -->
 	<!-- container -->
 	<div class="container">
 
@@ -154,22 +193,7 @@
      		<p class="text-right"><a href="services.php" class="btn btn-success btn-large">Learn more »</a></p>
   		</div>
 
-  		<h2 class="text-center top-space">What have we been up to?</h2>
-		
-		<div id="blog row">
-			<div class="blog-space col-md-4">
-				<p>Zoo Trip</p>
-			</div>
-				
-			<div class="blog-space col-md-4">
-				<p>Arts and Crafts</p>
-			</div>	
-				
-			<div class="blog-space col-md-4">
-				<p>Gardening</p>
-			</div>	
-
-		</div> <!-- /blog -->
+  		
 
 	</div>	<!-- /container -->
 
