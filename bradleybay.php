@@ -85,23 +85,18 @@
 					</div>
 				</div>
 
-				<div class="row widget">
-					<div class="col-xs-12">
-						<h4>What have we been up to?</h4>
-						<p><img src="assets/images/bbactivities.png" alt=""></p>
-						
-					</div>
+				<div class="widget">
+
+					<img src="assets/images/rooms/bb1.jpg" />
+				</div>
+				<div class="widget">
+
+					<img src="assets/images/rooms/bb2.jpg" />
+					
+
 				</div>
 
-				<div class="row widget">
-					<div class="col-xs-12">
-						<a class="twitter-timeline"  href="https://twitter.com/Perception_MM"  data-widget-id="472054393240449024">Tweets by @Perception_MM</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
-
-					</div>
-				</div>
+				
 				
 
 			</aside>
