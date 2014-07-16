@@ -137,11 +137,11 @@
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					</p>
-					<img src="assets/images/blog/arts.jpg" />
+					<img src="assets/images/blog/arts.JPG" />
 				</div>	
 					
 				<div class="blog-space col-md-4">
-									
+
 					<a href="#"><h4>Gardening >></h4></a>
 					<p class="right">5/15/2014</p>
 					
