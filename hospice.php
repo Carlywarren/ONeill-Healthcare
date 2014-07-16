@@ -32,7 +32,7 @@
 	<?php include 'inc/nav.php'; ?>
 	<!-- /.navbar -->
 
-	<header id="head" class="therapy"></header>
+	<header id="head" class="hospice"></header>
 
 	<!-- container -->
 	<div class="container">
@@ -40,7 +40,7 @@
 		<ol class="breadcrumb">
 			<li><a href="index.php">Home</a></li>
 			<li><a href="services.php">Services</a></li>
-			<li class="active">Therapy & Rehabilitative Care</li>
+			<li class="active">Hospice</li>
 		</ol>
 
 		<div class="row">
@@ -48,59 +48,22 @@
 			<!-- Article main content -->
 			<article class="col-md-8 maincontent">
 				<header class="page-header">
-					<h1 class="page-title">Therapy & Rehabilitative Care</h1>
+					<h1 class="page-title">Hospice</h1>
 				</header>
 
 				
 				
 				<p>
-					Our rehabilitation programs consist of licensed therapists and assistants using a team approach to help each resident achieve their highest functional status. We encourage each person to participate actively in their progressive rehabilitation plan, and offer support, respect and understanding to help seniors achieve the highest quality of life possible. Therapies are available to all residents and on an outpatient basis as well. Extensive rehabilitation therapy services are available seven days a week, and include audiology, occupational, orthopedic, physical and speech therapies.
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 				</p>
 				
 				
-				<h3>Unique Services at Bradley Bay</h3>
-
 				
-
-				
-				<p>
-					Bradley Bay Health Center and Orthopaedics Associates came together several years ago to form the Orthopaedic Clinic at Bradley Bay Health Center. The center offers physician consultation, evaluation, and post surgical follow-ups within our facility. The center offers treatments and services that are covered by most insurance plans and Medicare.
-				</p>
-				
-				
-
-				<h3>Regain Your Independence at Center Ridge</h3>
-				<p>
-					At Center Ridge Health Campus recovery and rehabilitation are our primary goals. We offer recovering patients an opportunity to maximize their strength, function, mobility, and confidence so that they can regain as much independence as possible. We support short-term admissions and encourage residents to return to their homes as soon as possible.
-				</p>
-				
-				<p>
-					Residents will be seen and evaluated the same day that they are admitted. Guests receiving short-term rehabilitation enjoy a tastefully appointed room that includes a phone and cable television, both free of charge. Prior to discharge, a home visit will be arranged to assess and promote a restorative environment.
-				</p>
-
-				<h3>We Can Help You at Lakewood </h3>
-				<p>
-					The Health Center provides an excellent and comprehensive therapy program. We offer a complete range of Rehabilitative and Restorative Nursing Services on an inpatient and outpatient basis throughout our Campus.
-				</p>
-				<p>
-					Our therapy gym contains state-of-the-art equipment; everything from the Nu-Step recumbent bicycle to a Wii virtual reality gaming system. Our Rehab Department is staffed in-house with Licensed Physical, Occupational, and Speech Therapists and their Assistants. Our compassionate therapy team evaluates rehab candidates and creates an individualized treatment plan for each resident. The goal of our Rehab Department is to assist each person to reach their maximum functional potential and to regain optimal health and independence.
-				</p>
-
-				<h3>Physical Occupational & Speech Therapy</h3>
-				<p>
-					Through physical therapy you will maximize your strength, flexibility and balance. Our therapists utilize traditional therapy methods, as well as the most current treatment approaches.
-				</p>
-				<p>
-					Occupational therapy is for those looking to increase their independence in order to manage the activities of daily living.
-				</p>
-				
-				<p>
-					Our speech therapists help our residents regain their communication abilities. The therapists are also certified in swallowing rehabilitation, to provide care to those experiencing Dysphagia.
-				</p>
-
-				<p>
-					At Wellington Place we provide comprehensive therapy services that focus on recovery. Our therapists help each patient achieve their highest functional potential, quality of life and optimal independence. We encourage each patient and their family to participate actively in their progressive rehabilitation plan, and offer support, respect and understanding of each person's goals. Our therapists develop individual programs tailored to these goals to ensure appropriate functional skills are identified, learned and reinforced.
-				</p>
 				
 
 
@@ -122,14 +85,7 @@
 						
 					</div>
 				</div>
-				<div class="row widget">
-					<div class="col-xs-12">
-						
-						
-						<p><img src="assets/images/therapy2.jpg"/></p>
-						
-					</div>
-				</div>
+				
 				
 
 			</aside>
