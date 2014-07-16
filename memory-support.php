@@ -24,7 +24,7 @@
 	<script src="assets/js/respond.min.js"></script>
 	<![endif]-->
 
-	<?php $page = "rehab"; ?>
+	<?php $page = "memory"; ?>
 </head>
 
 <body>

@@ -13,15 +13,23 @@
 				<li class="<?php echo ($page =="about" ? "active" : "")?>"><a href="about.php">About</a></li>
 				<li class="dropdown <?php echo ($page == "srv" ? "active" : "")?>">
 					<a href="services.php" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
+
 					<ul class="dropdown-menu">
-						<li class="<?php echo ($page =="rehab" ? "active" : "")?>"><a href="about.php"><a href="rehab-and-therapy.php">Rehab and Therapy</a></li>
-						<li><a href="skilled-nursing.php">Skilled Nursing</a></li>
-						<li><a href="assisted-living.php">Assisted Living</a></li>
-						<li><a href="independent-living.php">Independent Living</a></li>
-						<li><a href="memory-support.php">Memory Support</a></li>
-						<li><a href="hospice.php">Hospice</a></li>
-						<li><a href="dialysis.php">Dialysis</a></li>
+						<li class="<?php echo ($page =="rehab" ? "active" : "")?>"><a href="rehab-and-therapy.php">Rehab and Therapy</a></li>
+
+						<li class="<?php echo ($page =="nursing" ? "active" : "")?>"><a href="skilled-nursing.php">Skilled Nursing</a></li>
+
+						<li class="<?php echo ($page =="assistedliving" ? "active" : "")?>"><a href="assisted-living.php">Assisted Living</a></li>
+
+						<li class="<?php echo ($page =="independentliving" ? "active" : "")?>"><a href="independent-living.php">Independent Living</a></li>
+
+						<li class="<?php echo ($page =="memory" ? "active" : "")?>"><a href="memory-support.php">Memory Support</a></li>
+
+						<li class="<?php echo ($page =="hopsice" ? "active" : "")?>"><a href="hospice.php">Hospice</a></li>
+
+						<li class="<?php echo ($page =="nursing" ? "dialysis" : "")?>"><a href="dialysis.php">Dialysis</a></li>
 					</ul>
+
 				</li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Locations <b class="caret"></b></a>
