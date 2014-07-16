@@ -38,7 +38,7 @@
 	<?php $page = "home"; ?>
 </head>
 
-<body class="home">
+<body>
 
 <?php include 'inc/nav.php'; ?>
 
@@ -154,7 +154,26 @@
      		<p class="text-right"><a href="services.php" class="btn btn-success btn-large">Learn more »</a></p>
   		</div>
 
+  		<h2 class="text-center top-space">What have we been up to?</h2>
+		
+		<div id="blog row">
+			<div class="blog-space col-md-4">
+				<p>Zoo Trip</p>
+			</div>
+				
+			<div class="blog-space col-md-4">
+				<p>Arts and Crafts</p>
+			</div>	
+				
+			<div class="blog-space col-md-4">
+				<p>Gardening</p>
+			</div>	
+
+		</div> <!-- /blog -->
+
 	</div>	<!-- /container -->
+
+
 
 	<footer id="footer" class="top-space">
 
