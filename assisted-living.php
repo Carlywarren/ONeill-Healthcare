@@ -125,44 +125,47 @@
 				<div class="row">
 					
 					<div class="col-md-3 widget">
+						<a href="bradleybay.php"><p><img src="assets/images/logos/BBlogo.png" alt="Bay Village Bradley Bay Logo"></p></a>
 						<a href="bradleybay.php"><h4>Bay Village </h4></a>
 						<p>
 							605 Bradley Road<br>
 							Bay Village, Ohio 44140<br>
 							440-871-3474 
 						</p>
-						<a href="bradleybay.php"><p><img src="assets/images/logos/BBlogo.png" alt="Bay Village Bradley Bay Logo"></p></a>
 					</div>
 
 					<div class="col-md-3 widget">
+						<p><img src="assets/images/logos/CRlogo.png" alt="North Ridgeville Center Ridge Logo"></p>
 						<h4>North Ridgeville </h4>
 						<p>
 							38600 Center Ridge Road<br>
 							North Ridgeville, Ohio 44039<br>
 							440-327-1295
 						</p>
-						<p><img src="assets/images/logos/CRlogo.png" alt="North Ridgeville Center Ridge Logo"></p>
+						
 					</div>
 
 
 					<div class="col-md-3 widget">
+						<p><img src="assets/images/logos/LAKElogo.png" alt="Lakewood Senior Health Campus Logo"></p>
 						<h4>Lakewood </h4>
 						<p>
 							13900 Detroit Avenue<br>
 							Lakewood, OH 44107<br>
 							216-228-7650 
 						</p>
-						<p><img src="assets/images/logos/LAKElogo.png" alt="Lakewood Senior Health Campus Logo"></p>
+						
 					</div>
 
 					<div class="col-md-3 widget">
+						<p><img src="assets/images/logos/WPlogo.png" alt="North Olmsted Wellington Place Logo"></p>
 						<h4>North Olmsted </h4>
 						<p>
 							4800 Clague Road<br>
 							North Olmsted, Ohio 44070<br>
 							440-734-9933 
 						</p>
-						<p><img src="assets/images/logos/WPlogo.png" alt="North Olmsted Wellington Place Logo"></p>
+						
 					</div>
 
 
