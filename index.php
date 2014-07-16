@@ -10,6 +10,12 @@
 
 	<link rel="shortcut icon" href="assets/images/favicon.ico">
 	
+	<!-- FancyBox -->
+    <link rel="stylesheet" href="assets/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+    <!-- Optionally add helpers - button, thumbnail and/or media -->
+    <link rel="stylesheet" href="assets/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+    <link rel="stylesheet" href="assets/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -43,7 +49,7 @@
 				<div class="titles">
 					<h1 class="lead">O'Neill Healthcare</h1>
 					<p class="tagline">Celebrating 50 years of providing quality care</p>
-					<p><a href="contact.php" class="btn btn-default btn-lg" role="button">Schedule a Tour</a> <a class="btn btn-action btn-lg" role="button">Video Guide</a></p>
+					<p><a href="contact.php" class="btn btn-default btn-lg" role="button">Schedule a Tour</a> <a class="btn btn-action btn-lg fancybox-media" role="button" href="https://www.youtube.com/watch?v=vmFqp1uatmo" >Video Guide</a></p>
 				</div>
 				
 			</div>
@@ -163,6 +169,21 @@
 	<script src="assets/js/headroom.min.js"></script>
 	<script src="assets/js/jQuery.headroom.min.js"></script>
 	<script src="assets/js/template.js"></script>
+	<script type="text/javascript" src="assets/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+    <script type="text/javascript" src="assets/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+    <script type="text/javascript" src="assets/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+    <script type="text/javascript" src="assets/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+    <script type="text/javascript" src="assets/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+    <script>
+        //Start FancyBox
+                jQuery('.fancybox-media').fancybox({
+                    openEffect  : 'none',
+                    closeEffect : 'none',
+                    helpers : {
+                        media : {}
+                    }
+                });
+        </script>
 
 	
 
