@@ -76,10 +76,46 @@
 				<div class="row widget">
 					<div class="col-xs-12">
 						<ul class="mini-nav">
-							<li class="call"><a href="tel:+15555555555"><i class="fa fa-phone fa-2"></i>    Call</a> <p class="phone-num">440-871-3474</p></li>
-							<li><a href="#map_canvas"><i class="fa fa-location-arrow fa-2"></i>    Visit</a></li>
-							<li><a href="contact.php"><i class="fa fa-pencil fa-2"></i>     Write</a></li>
+							<div class="row">
+							<li class="call col-md-12">
+								<button href="tel:+4408713474" class="btn-block">
+									<div class="phonehide"><i class="fa fa-phone fa-2"></i>    Call </div><div class="phone-num">440-871-3474</div>
+								</button> 
+								
+							</li>
+
+							<li class="visit col-md-12" >
+								<a href="#map_canvas">
+								<button class="btn-block" >
+										<i class="fa fa-location-arrow fa-2"></i>    Visit
+								</button>
+								</a>
+							</li>
+
+							<li class="write col-md-12">
+								<button class="write btn-block">
+									<i class="fa fa-pencil fa-2"></i>     Write
+								</button>
+							</li>
+						</div>
 						</ul>
+
+						<div class="bbform form">
+
+		                  	<div class="form-group">
+
+			                  	<label for="exampleInputEmail1">Name</label>
+			                    <input type="text" class="form-control" name="fname" id="fname" placeholder="First & Last Name" />
+			                   	<label for="exampleInputEmail1">Email</label>
+			                    <input type="text" class="form-control" name="lname" id="lname" placeholder="Email" />
+			                    <label for="exampleInputEmail1">Message</label>
+			                    <textarea name="message" class="form-control" id="message" placeholder="Comments / Questions"></textarea>
+
+		                	</div>
+
+		                   	<button style type="submit" class="btn btn-default">Submit</button>
+
+						</div>
 						
 						
 					</div>
@@ -335,6 +371,14 @@
 		$(".phone-num").hide();
 		$(".call").click(function(){
 			$(".phone-num").show();
+			$(".phonehide").hide();
+		});
+
+		$(".bbform").hide();
+		$(".write").click(function(){
+			$(".mini-nav").css("border-bottom" , "none");
+			$(".bbform").slideDown(1000);
+
 		});
 	</script>
 
