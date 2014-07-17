@@ -162,6 +162,8 @@ img[src*="gstatic.com/"], img[src*="googleapis.com/"] {
 	margin-bottom: 20px;
 }
 
+
+
 #map_canvas {
 	      margin: 0;
 	      padding: 0;
@@ -469,6 +471,7 @@ img.pull-left {
 
 /* Main content block */
 .maincontent {
+	float:left;
 }
 
 .trc {
@@ -500,6 +503,11 @@ img.pull-left {
 	border-bottom: 1px dashed green;
 	border-left: 1px dashed green;
 	border-right: 1px dashed green;
+}
+
+.full-img {
+	width:400px;
+	margin:0 auto;
 }
 
 /* Sidebars */

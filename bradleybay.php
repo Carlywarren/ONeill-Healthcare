@@ -68,7 +68,7 @@
 
 				<div class="row widget">
 					<div class="col-xs-12">
-						<p><img src="assets/images/logos/BBlogo.png" alt="Bay Village Bradley Bay Logo"></p>
+						<p><img src="assets/images/logos/BBlogo.png" alt="Bay Village Bradley Bay Logo" class="img-responsive full-img"></p>
 						
 					</div>
 				</div>
@@ -78,9 +78,14 @@
 						<ul class="mini-nav">
 							<div class="row">
 							<li class="call col-md-12">
-								<button href="tel:+4408713474" class="btn-block">
-									<div class="phonehide"><i class="fa fa-phone fa-2"></i>    Call </div><div class="phone-num">440-871-3474</div>
-								</button> 
+								<a href="tel:+4408713474">
+									<button class="btn-block">
+										<div class="phonehide">
+											<i class="fa fa-phone fa-2"></i>    Call 
+										</div>
+										<div class="phone-num">440-871-3474</div>
+									</button> 
+								</a>
 								
 							</li>
 
@@ -109,29 +114,43 @@
 			                   	<label for="exampleInputEmail1">Email</label>
 			                    <input type="text" class="form-control" name="lname" id="lname" placeholder="Email" />
 			                    <label for="exampleInputEmail1">Message</label>
-			                    <textarea name="message" class="form-control" id="message" placeholder="Comments / Questions"></textarea>
+			                    <textarea name="message" rows="7" class="form-control" id="message" placeholder="Comments / Questions"></textarea>
 
 		                	</div>
 
-		                   	<button style type="submit" class="btn btn-default">Submit</button>
+		                   	<button style type="submit" class="btn btn-default btn-block">Submit</button>
 
 						</div>
 						
 						
 					</div>
 				</div>
+				<div class="row">
+				<div class="widget col-sm-6 col-md-12 col-lg-12">
 
-				<div class="widget">
-
-					<img src="assets/images/rooms/bb1.jpg" />
+					<img src="assets/images/rooms/bb1.jpg" class="img-responsive full-img"/>
 				</div>
-				<div class="widget">
+				
+				<div class="widget col-sm-6 col-md-12 col-lg-12">
 
-					<img src="assets/images/rooms/bb2.jpg" />
+					<img src="assets/images/rooms/bb3.jpg" class="img-responsive full-img"/>
+					
+
+				</div>
+				<div class="widget col-sm-6 col-md-12 col-lg-12">
+
+					<img src="assets/images/rooms/bb4.jpg" class="img-responsive full-img"/>
 					
 
 				</div>
 
+				<div class="widget col-sm-6 col-md-12 col-lg-12">
+
+					<img src="assets/images/rooms/floorholder.jpg" class="img-responsive full-img"/>
+					
+
+				</div>
+				</div>
 				
 				
 
@@ -166,11 +185,12 @@
 				
 				<p>Dining at Bradley Bay Health Center is like being able to enjoy your favorite restaurant at every meal. Menus are individually tailored and prepared around residents' needs and interests. Home prepared meals, lovingly made and served in a warm and inviting environment, delight the taste buds. And because every dish is personally reviewed by our Dieticians, you can be sure each meal exceeds all acceptable nutritional standards.</p>
 				<p>Although residents are encouraged to enjoy their meals in our tastefully decorated dining rooms, they also have the option of eating in their rooms or enjoying the occasional "breakfast in bed." But you're not done having your say. Bradley Bay also has a Food Committee where residents are encouraged to participate and give ongoing feedback on menu satisfaction, as well as recommendations for additional dishes.</p>
-				<h3>Activities</h3>
 				<div class="row">
+			
+				
 
 				<div class="col-md-6">
-					
+						<h3>Activities</h3>
 					<p>
 						At Bradley Bay Health Center we work to promote a healthy and active lifestyle for each and every resident. We provide and support a variety of recreational programs, tailored to your needs and interests. You'll have the opportunity to participate in a number of activities you're familiar with, as well as new experiences that are sure to become favorites. No matter what you choose to do, participation will promote physical, cognitive and emotional well-being, as well as empower you to be more active, self-directing and spontaneous. But best of all, you'll have fun and foster new friendships.
 					</p>
@@ -186,7 +206,7 @@
 					</ul>
 				</div>
 				<div class="col-md-6">
-					<img src="assets/images/bbcards.png" />
+					<img src="assets/images/bbcards.png" class="img-responsive full-img"/>
 				</div>
 				</div>
 
