@@ -35,7 +35,7 @@
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Locations <b class="caret"></b></a>
 					<ul class="dropdown-menu">
 						<li class="<?php echo ($page =="bb" ? "active" : "")?>"><a href="about.php"><a href="bradleybay.php">Bay Village Bradley Bay</a></li>
-						<li><a href="#">North Ridgeville Center Ridge</a></li>
+						<li><a href="centerridge.php">North Ridgeville Center Ridge</a></li>
 						<li><a href="#">Lakewood</a></li>
 						<li><a href="#">North Olmsted Wellington Place</a></li>
 						<li><a href="#">Fairview Park</a></li>

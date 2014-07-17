@@ -271,6 +271,15 @@ img[src*="gstatic.com/"], img[src*="googleapis.com/"] {
 	background-position: center;
 }
 
+#head.centerridge {
+	height: 100px;
+	min-height: 400px;
+	padding-top: 0px;
+	background: #181015 url(../images/bg_header_cr.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
 #head .lead {
 	font-family: "Open sans", Helvetica, Arial;
 	font-size: 54px;
